@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "GLITTER DAYS",
+  "base_artist": "Fo'xTails",
+  "createdAt": "2026-03-12T14:58:51.108916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Glitter Days",
+      "artist": "Firewater",
+      "has_synced": true,
+      "path": "select/01_Glitter_Days_Firewater.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GLITTER DAYS",
+      "artist": "Fo'xTails",
+      "has_synced": true,
+      "path": "select/02_GLITTER_DAYS_Fo'xTails.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GLITTER DAYS",
+      "artist": "Fo'xTails",
+      "has_synced": true,
+      "path": "select/03_GLITTER_DAYS_Fo'xTails.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Glitter days",
+      "artist": "Fo'x Tails",
+      "has_synced": false,
+      "path": "select/pl_01_Glitter_days_Fo'x_Tails.txt"
+    }
+  ]
+}
